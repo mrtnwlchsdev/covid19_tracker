@@ -1,22 +1,17 @@
-# Covid19 Tracker
+# Covid19 Tracker :microbe:
 
-## Clone the project 
+# Tasks Tracker
 
-```
-git clone https://github.com/mrtnwlchsdev/covid19_tracker.git
-```
+## Basic Vue application
+- Vue.js 3
+- Bootstrap 5
+- JavaScript fetch
+- [covid19api](https://covid19api.com/)
 
-## Project setup
-```
-npm install
-```
+## Deploy 🛠️
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
+    $ git clone https://github.com/mrtnwlchsdev/covid19_tracker.git
+  
+    $ npm install
+  
+    $ npm run serve
