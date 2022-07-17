@@ -1,4 +1,10 @@
-# covid19-tracker
+# Covid19 Tracker
+
+## Clone the project 
+
+```
+git clone https://github.com/mrtnwlchsdev/covid19_tracker.git
+```
 
 ## Project setup
 ```
@@ -14,6 +20,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
